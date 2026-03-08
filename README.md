@@ -103,3 +103,9 @@ Tools: SQL, Database Design
 • Modeled users, equipment inventory, bookings, and payment tracking
 • Implemented constraints and relationships for data integrity
 • Wrote SQL queries for booking management and inventory tracking
+
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManasiSatpute&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManasiSatpute&layout=compact)
